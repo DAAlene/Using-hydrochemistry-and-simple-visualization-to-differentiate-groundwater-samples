@@ -1,6 +1,5 @@
 untitled.html
 k7u58lk6n4o.html
-figures/Screen Shot 2017-09-26 at 4-10-44 AM
 5cpm4vr49t8.html
 figures/KualitasAir_ArifS - Sheet1
 8u3fldg35vo.html
