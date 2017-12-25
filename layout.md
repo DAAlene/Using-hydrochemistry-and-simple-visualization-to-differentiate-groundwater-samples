@@ -1,6 +1,5 @@
 untitled.html
 k7u58lk6n4o.html
-figures/Principal_Component_Analysis_of_the_Italian_population
 figures/Screen Shot 2017-09-26 at 4-10-44 AM
 5cpm4vr49t8.html
 figures/KualitasAir_ArifS - Sheet1
