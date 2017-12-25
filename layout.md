@@ -1,6 +1,4 @@
 untitled.html
-d1ouc580bkg.html
-gsmvg2806j8.html
 p58ldl4fmmg.html
 svu53jtdb3g.html
 k3o04osd7u.html
