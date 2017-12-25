@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Fe/Fe.svg
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/87737/articles/200842/master/file/figures/Fe/Fe.svg"
+    folder_url: "/users/87737/articles/200842/master/folder/figures/Fe"

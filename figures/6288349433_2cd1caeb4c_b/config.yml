@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 800
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/6288349433_2cd1caeb4c_b/6288349433_2cd1caeb4c_b.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/87737/articles/200842/master/file/figures/6288349433_2cd1caeb4c_b/6288349433_2cd1caeb4c_b.png"
+    folder_url: "/users/87737/articles/200842/master/folder/figures/6288349433_2cd1caeb4c_b"

@@ -1,0 +1,35 @@
+untitled.html
+figures/6288349433_2cd1caeb4c_b
+k7u58lk6n4o.html
+figures/Principal_Component_Analysis_of_the_Italian_population
+figures/Screen Shot 2017-09-26 at 4-10-44 AM
+5cpm4vr49t8.html
+figures/KualitasAir_ArifS - Sheet1
+8u3fldg35vo.html
+1lqp7mrc7bo.md
+kc59d4j345o.html
+figures/elevation
+figures/Kekeruhan
+figures/DHL
+figures/TDS
+figures/pH-lab
+2s8g8dkksag.html
+figures/Kesadahan
+figures/Ca
+figures/Mg
+figures/Fe
+figures/Mn
+figures/K
+figures/Na
+figures/NH4
+figures/CO3
+figures/HCO3
+figures/Cl
+figures/SO4
+figures/NO2
+figures/NO3
+i6bmd0da98o.html
+gq6mtnbh98o.html
+mjpfc8fvoh8.html
+m9vhu290ss8.html
+h8fteednma8.html

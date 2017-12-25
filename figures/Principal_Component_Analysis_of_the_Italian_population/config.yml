@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Principal_Component_Analysis_of_the_Italian_population/Principal_Component_Analysis_of_the_Italian_population.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/87737/articles/200842/master/file/figures/Principal_Component_Analysis_of_the_Italian_population/Principal_Component_Analysis_of_the_Italian_population.png"
+    folder_url: "/users/87737/articles/200842/master/folder/figures/Principal_Component_Analysis_of_the_Italian_population"
