@@ -1,6 +1,5 @@
 untitled.html
 k7u58lk6n4o.html
-5cpm4vr49t8.html
 figures/KualitasAir_ArifS - Sheet1
 8u3fldg35vo.html
 1lqp7mrc7bo.md
