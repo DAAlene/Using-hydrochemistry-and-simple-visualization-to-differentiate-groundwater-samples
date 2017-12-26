@@ -24,6 +24,4 @@ figures/NO2
 figures/NO3
 i6bmd0da98o.html
 gq6mtnbh98o.html
-mjpfc8fvoh8.html
-m9vhu290ss8.html
 h8fteednma8.html
