@@ -23,5 +23,7 @@ figures/SO4
 figures/NO2
 figures/NO3
 i6bmd0da98o.html
+figures/corrmat
+ot7vqg07me8.html
 gq6mtnbh98o.html
 h8fteednma8.html
