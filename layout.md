@@ -1,7 +1,5 @@
 abstract.html
 oo2m6vv89lg.html
-glre48qd6m8.html
-slf5ckss83o.html
 o8mamdggmfg.html
 3r0k50e2qr.html
 jvr4h15e08o.html
