@@ -2,7 +2,6 @@ abstract.html
 oo2m6vv89lg.html
 k7u58lk6n4o.html
 8u3fldg35vo.html
-1lqp7mrc7bo.md
 kc59d4j345o.html
 figures/elevation
 figures/Kekeruhan
