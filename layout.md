@@ -8,8 +8,6 @@ epdi6h9e5p8.html
 8rm0mn1sg4g.html
 s9jb0bpmkcg.html
 qv6o5bmklp.html
-for335guf7o.html
-rc653amigno.html
 2gri24p61v.html
 l5npi590hs.html
 6juqiqm3jco.html
