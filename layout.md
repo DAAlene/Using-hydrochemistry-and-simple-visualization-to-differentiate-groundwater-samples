@@ -5,7 +5,6 @@ k7u58lk6n4o.html
 figures/elevation
 figures/Kekeruhan
 figures/DHL
-figures/TDS
 figures/pH-lab
 2s8g8dkksag.html
 figures/Kesadahan
