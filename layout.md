@@ -6,7 +6,6 @@ figures/elevation
 figures/Kekeruhan
 figures/DHL
 2s8g8dkksag.html
-figures/Na
 figures/NH4
 figures/CO3
 figures/HCO3
