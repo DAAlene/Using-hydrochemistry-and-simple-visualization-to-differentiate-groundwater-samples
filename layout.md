@@ -6,7 +6,6 @@ figures/elevation
 figures/Kekeruhan
 figures/DHL
 2s8g8dkksag.html
-figures/Fe
 figures/Mn
 figures/K
 figures/Na
