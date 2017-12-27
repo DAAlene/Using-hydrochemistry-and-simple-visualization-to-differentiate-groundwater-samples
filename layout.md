@@ -6,7 +6,6 @@ figures/elevation
 figures/Kekeruhan
 figures/DHL
 2s8g8dkksag.html
-figures/NO3
 i6bmd0da98o.html
 figures/corrmat
 ot7vqg07me8.html
