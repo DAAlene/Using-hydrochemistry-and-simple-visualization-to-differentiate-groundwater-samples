@@ -13,4 +13,6 @@ figures/corrmat
 ot7vqg07me8.html
 figures/3d
 gq6mtnbh98o.html
+figures/pcavar
+os5ctp1128g.html
 h8fteednma8.html
