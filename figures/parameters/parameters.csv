@@ -1,0 +1,25 @@
+Column,Parameters,Descriptions,Units
+1,No,Number,NA
+2,SampleID,Sample ID,NA
+3,Lith,Lithological unit,NA
+4,Od,Odour,NA
+5,Taste,Taste,NA
+6,Elev,Elevation,masl
+7,EC,Electrical conductivity,mikroSiemens/cm
+8,TDS,Total dissolved solids,ppm
+9,pH,pH,NA
+10,Hard,Hardness,ppm
+11,Ca,Calcium,ppm
+12,Mg,Magnesium,ppm
+13,Fe3,Iron trivalent,ppm
+14,Mn,Manganese,ppm
+15,K,Potassium,ppm
+16,Na,Sodium,ppm
+17,NH4,Ammonium,ppm
+18,CO3,Carbonate,ppm
+19,HCO3,Bicarbonate,ppm
+20,Cl,Chloride,ppm
+21,SO4,Sulfate,ppm
+22,NO2,Nitrite,ppm
+23,NO3,Nitrate,ppm
+24,Source,Data citation,NA
