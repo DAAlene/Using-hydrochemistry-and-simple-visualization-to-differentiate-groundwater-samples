@@ -15,4 +15,6 @@ figures/3d
 gq6mtnbh98o.html
 figures/pcavar
 os5ctp1128g.html
+figures/pcaind
+53esstie35g.html
 h8fteednma8.html
