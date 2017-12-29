@@ -17,4 +17,6 @@ figures/pcavar
 os5ctp1128g.html
 figures/pcaind
 53esstie35g.html
+figures/radialclust
+s23vos93ig.html
 h8fteednma8.html
