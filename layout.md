@@ -3,7 +3,6 @@ oo2m6vv89lg.html
 k7u58lk6n4o.html
 figures/parameters
 1uh0hd6hm5c.html
-hvteap5buhc.html
 8u3fldg35vo.html
 figures/elevation
 figures/Kekeruhan
